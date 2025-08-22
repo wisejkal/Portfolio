@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site is built using simple HTML and CSS, and it's hosted on **GitHub Pages**.
 
-🔗 **Live Website:** [https://yourusername.github.io/your-portfolio](https://yourusername.github.io/your-portfolio)
+🔗 **Live Website:** https://wisejkal.github.io/Portfolio/
 
 ---
 
