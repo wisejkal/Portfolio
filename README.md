@@ -41,7 +41,8 @@ To deploy:
 1. Upload the contents to your GitHub repository
 2. Enable GitHub Pages from the repository settings
 3. Your site will be live at:  
-   `https://<your-username>.github.io/<your-repo-name>/`
+https://wisejkal.github.io/Portfolio/
+
 
 ---
 
